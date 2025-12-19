@@ -1,0 +1,4 @@
+## Ignore inputs
+*.txt
+
+**/.DS_Store
